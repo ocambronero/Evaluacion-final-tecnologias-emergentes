@@ -1,0 +1,8 @@
+El proyecto Tienda online utiliza un API que debe ejecutarse mediante un npm start dentro de la carpeta /api
+1. El api posee su propio archivo package.json por lo que es necesario primero ejecutar npm install en esta carpeta, para que se instalen los m´pdulos
+de NPM necesarios.
+
+2. Una vez instalados los node_modules se debe ejecutar el archivo InitMongoDB.js mediante node InitMongoDB para que se cree la BD, los usuarios y el catálogo de
+productos.
+
+3. Puede utilizar el usuarios test@gmail.com con password: 1234 para realizar las pruebas del proyecto
